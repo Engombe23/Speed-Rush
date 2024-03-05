@@ -5,9 +5,7 @@ The game was developed using JavaScript, notably a client-side library called p5
 
 It was part of my project at sixth form/college.
 
-Link to the game: 
-
-https://speed-rush-af0ed3441cf9.herokuapp.com/
+Link to the game: https://speed-rush-af0ed3441cf9.herokuapp.com/
 
 Demo:
 
