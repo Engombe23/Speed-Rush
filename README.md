@@ -1,14 +1,28 @@
-# Speed-Rush
-A racing game where you aim to reach the finish line before the time runs out.
+<h1 align="center" id="title">Speed Rush</h1>
 
-The game was developed using JavaScript, notably a client-side library called p5.js. 
+<p align="center"><img src="https://socialify.git.ci/Engombe23/Speed-Rush/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-It was part of my project at sixth form/college.
+<p id="description">A racing game where you aim to reach the finish line before the time runs out.</p>
 
-Link to the game: https://speed-rush-af0ed3441cf9.herokuapp.com/
+<h2>🚀 Demo</h2>
 
-Demo:
+[https://speed-rush-af0ed3441cf9.herokuapp.com/](https://speed-rush-af0ed3441cf9.herokuapp.com/)
 
-https://github.com/Engombe23/Speed-Rush/assets/55360238/6b7d177c-7061-4643-92b3-3f586bd86d7e
+  
+  
+<h2>🧐 Features</h2>
 
-P.S. Sorry for the corrupted music
+Here're some of the project's best features:
+
+*   Menu
+*   Leaderboard
+*   Race track
+*   Car
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   JavaScript
