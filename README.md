@@ -18,11 +18,11 @@ Here're some of the project's best features:
 *   Leaderboard
 *   Race track
 *   Car
-
-  
-  
+ 
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-*   JavaScript
+ <h2>Deployment</h2>
+
+ <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
